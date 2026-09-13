@@ -15,5 +15,14 @@
     "toc": "toc.js",
     "chap": "chap.js",
     "search": "search.js"
-  }
+  },
+      {
+      "name": "TruyenCV",
+      "author": "truongfq",
+      "path": "https://raw.githubusercontent.com/truongfq/ji-book/main/src/truyencv.ext",
+      "version": 1,
+      "source": "https://truyencv.io",
+      "icon": "https://raw.githubusercontent.com/truongfq/ji-book/main/icon.png"
+    },
+
 }
