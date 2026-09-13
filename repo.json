@@ -15,5 +15,19 @@
       "type": "novel",
       "locale": "vi_VN"
     }
+      {
+    "name": "TruyenCV",
+    "author": "truongfq",
+    "version": 1,
+    "source": "https://truyencv.io",
+    "regexp": "(truyencv\\.io)",
+    "description": "Đọc truyện chữ từ TruyenCV",
+    "locale": "vi_VN",
+    "type": "novel",
+    "pkg": "https://raw.githubusercontent.com/truongfq/ji-book/main/src/truyencv.ext",
+    "path": "src/truyencv.ext",
+    "icon": "https://raw.githubusercontent.com/truongfq/ji-book/main/src/icon.png"
+  }
+
   ]
 }
