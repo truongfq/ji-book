@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Ji",
+    "description": "Extension cá nhân"
+  },
+  "data": [
+    {
+      "name": "TruyenTV (Live)",
+      "author": "Ji",
+      "path": "https://raw.githubusercontent.com/truongfq/ji-book/main/plugin.zip",
+      "version": 1,
+      "source": "https://www.tvtruyen.live/",
+      "icon": "https://raw.githubusercontent.com/truongfq/ji-book/main/icon.png",
+      "description": "Đọc truyện trên tvtruyen.live",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
