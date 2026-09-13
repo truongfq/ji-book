@@ -2,7 +2,7 @@ load('config.js');
 
 function execute(key, page) {
     if (!page) page = '1';
-    let searchUrl = BASE_URL + "/tim-kiem?tukhoa=" + encodeURIComponent(key) + "&page=" + page;
+    let searchUrl = BASE_URL + "tim-kiem-nang-cao?tukhoa=" + encodeURIComponent(key) + "&page=" + page;
     let response = fetch(searchUrl);
     if (response.ok) {
         let doc = response.html();
